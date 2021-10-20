@@ -24,4 +24,4 @@ Se planejar e pensar sempre alguns passos a frente pode minimizar futuras dores 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oevidente&layout=compact&theme=radical)](https://github.com/oevidente/JavaScript)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oevidente&show_owner=Oevidente&repo=URI-JavaScript&theme=radical)](https://github.com/oevidente/JavaScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oevidente&show_owner=Oevidente&repo=JavaScript&theme=radical)](https://github.com/oevidente/JavaScript)
