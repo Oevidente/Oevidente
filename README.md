@@ -22,6 +22,6 @@ Se planejar e pensar sempre alguns passos a frente pode minimizar futuras dores 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oevidente&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oevidente&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oevidente&layout=compact&theme=radical)](https://github.com/oevidente/JavaScript)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oevidente&show_owner=Oevidente&repo=URI-JavaScript&theme=radical)](https://github.com/oevidente/JavaScript)
