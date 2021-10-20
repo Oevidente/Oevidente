@@ -14,7 +14,7 @@
 Se planejar e pensar sempre alguns passos a frente pode minimizar futuras dores de cabeça
 
 ## Quer me achar? 👇🏼
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inandreluiz1902/)](https://www.linkedin.com/in/andreluiz1902/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/oevidente/)](https://www.instagram.com/oevidente/) ![Twitter Follow](https://img.shields.io/twitter/follow/oevidente_?style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inandreluiz1902/)](https://www.linkedin.com/in/andreluiz1902/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/oevidente/)](https://www.instagram.com/oevidente/) [![Twitter Follow](https://img.shields.io/twitter/follow/oevidente_?style=flat-square&link=https://www.twitter.com/oevidente_/)](https://www.twitter.com/oevidente_)
 
 ## Tecnologias em Desenvolvimento 💻
 
