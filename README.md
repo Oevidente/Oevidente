@@ -18,7 +18,7 @@ Se planejar e pensar sempre alguns passos a frente pode minimizar futuras dores 
 
 ## Tecnologias em Desenvolvimento 💻
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)](https://github.com/oevidente/JavaScript) <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> 
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)](https://github.com/oevidente/JavaScript) <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://github.com/oevidente/HTML)
 
 ### Ferramentas
 
