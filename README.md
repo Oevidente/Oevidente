@@ -4,7 +4,7 @@
 
 😄 Pronomes: Ele/Dele
 
-🎓📚 Estou Atualmente estudando JavaScript
+🎓📚 Estou Atualmente estudando JavaScript, HTML e CSS
 
 🤔 Preciso de dicas de JavaScript
 
