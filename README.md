@@ -14,7 +14,7 @@
 Se planejar e pensar sempre alguns passos a frente pode minimizar futuras dores de cabeça
 
 ## Quer me achar? 👇🏼
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inandreluiz1902/)](https://www.linkedin.com/in/andreluiz1902/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/oevidente/)](https://www.instagram.com/oevidente/) [![Twitter](https://img.shields.io/badge/Oevidente__-%231DA1F2.svg?style=flat-quare&logo=Twitter&logoColor=white)](https://www.twitter.com/oevidente_) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/andreluiz1902)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inandreluiz1902/)](https://www.linkedin.com/in/andreluiz1902/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/oevidente.dev/)](https://www.instagram.com/oevidente.dev/) [![Twitter](https://img.shields.io/badge/Oevidente__-%231DA1F2.svg?style=flat-quare&logo=Twitter&logoColor=white)](https://www.twitter.com/oevidente_) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/andreluiz1902)
 
 ## Tecnologias em Desenvolvimento 💻
 
