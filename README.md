@@ -18,10 +18,11 @@ Se planejar e pensar sempre alguns passos a frente pode minimizar futuras dores 
 
 ## Tecnologias em Desenvolvimento 💻
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)](https://github.com/oevidente/JavaScript) [![NodeJS](https://img.shields.io/badge/node.js-3C873A?style=flat&logo=node.js&logoColor=white)](https://github.com/oevidente/JavaScript) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://github.com/oevidente/HTML) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://github.com/oevidente/HTML)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/Oevidente/JAVA) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) [![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)](https://github.com/oevidente/JavaScript) [![NodeJS](https://img.shields.io/badge/node.js-3C873A?style=flat&logo=node.js&logoColor=white)](https://github.com/oevidente/JavaScript) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://github.com/oevidente/HTML) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://github.com/oevidente/HTML)
 
 ### Ferramentas
 
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-blue.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat&logo=git&logoColor=ffffff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat&logo=github&logoColor=ffffff)&nbsp;
