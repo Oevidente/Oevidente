@@ -4,9 +4,9 @@
 
 😄 Pronomes: Ele/Dele
 
-🎓📚 Estou Atualmente estudando JavaScript, HTML e CSS
+🎓📚 Estou Atualmente estudando Java
 
-🤔 Preciso de dicas de JavaScript
+🤔 Preciso de dicas de Java e banco de dados
 
 📍Recife - PE
 
