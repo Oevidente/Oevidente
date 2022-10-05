@@ -4,9 +4,9 @@
 
 😄 Pronomes: Ele/Dele
 
-🎓📚 Estou Atualmente estudando Java
+🎓📚 Estou Atualmente estudando Python e PHP
 
-🤔 Preciso de dicas de Java e banco de dados
+🤔 Preciso de dicas de React e banco de dados
 
 📍Recife - PE
 
